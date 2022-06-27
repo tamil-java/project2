@@ -7,3 +7,4 @@ Spring tool suite: latest version
 Spring 5
 Android 9
 SQLLite database
+angular
