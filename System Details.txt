@@ -5,3 +5,5 @@ MyEclipse: 2022-03
 Server: Tomcat 8.0
 Spring tool suite: latest version  
 Spring 5
+Android 9
+SQLLite database
