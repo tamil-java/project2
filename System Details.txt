@@ -1,0 +1,6 @@
+Operating system: windows 11
+Java version: JDK 11
+MySQL version: 8.0
+MyEclipse: 2022-03
+Server: Tomcat 8.0
+Spring tool suite: latest version   
